@@ -34,7 +34,7 @@ The program uses the sklearn library to load the breast cancer dataset, and then
 
 1. Clone this repository to your local machine using `git clone <repository_url>`
 2. Install the required dependencies by running `pip install -r requirements.txt`
-3. Run the program  `python Breast Cancer torch.ipynb`
+3. Run the notebook  `Breast Cancer torch.ipynb`
 
 ## Notes
 
